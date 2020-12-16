@@ -1,2 +1,1 @@
-# Umar-Duzz
-Brand Artist,
+@UmarDuzz
